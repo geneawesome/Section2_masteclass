@@ -1,0 +1,41 @@
+.navbar {
+  text-decoration: none;
+  font-weight: 400;
+  background-color: #2e3532 !important;
+}
+
+.brand,
+.list_item {
+  color: white;
+  font-size: bold;
+  font-size: 24px;
+}
+
+.gymfinity-logo {
+  font-size: 31px;
+}
+
+.brand:hover,
+.brand:focus {
+  color: white;
+}
+.brand:hover {
+  color: tomato;
+}
+
+.list_item:hover {
+  color: #d2b48c;
+}
+.btn-success {
+  background-color: #d2b48c;
+  border: solid 2px #d2b48c;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.btn-success:hover {
+  background-color: transparent;
+  color: #d2b48c;
+  border: solid 2px #d2b48c;
+}
